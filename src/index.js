@@ -1,6 +1,6 @@
 /**
  * EDtunnel - A Cloudflare Worker-based VLESS Proxy with WebSocket Transport
- *
+ * v2
  * This is the main entry point for the Cloudflare Worker.
  * The application is modularized into the following structure:
  *
